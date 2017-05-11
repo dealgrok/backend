@@ -1,0 +1,5 @@
+development:
+    dialect: postgres
+    datasource: dbname=dealgrok_dev sslmode=disable
+    dir: migrations
+    table: migrations
